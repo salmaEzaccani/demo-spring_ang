@@ -4,7 +4,7 @@ Salma EZACCANI<h1> Activité Pratique - Digital Bank Project</h1>
 
 # Introduction
 
-Ce projet est une application web conçue pour la gestion des clients et de leurs comptes au sein d'un système bancaire numérique. Il propose différentes fonctionnalités telles que les opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) des clients, la consultation des comptes et des opérations, ainsi que l'exécution de transactions financières.
+Ce projet est une application web conçue pour la gestion des patients
 
 ## Technologies Utilisées
 
