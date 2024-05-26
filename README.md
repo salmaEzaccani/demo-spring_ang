@@ -1,4 +1,4 @@
-Salma EZACCANI<h1> Activité Pratique - Digital Bank Project</h1>
+Salma EZACCANI<h1> Activité Pratique - gestion des patients</h1>
 
 
 
@@ -16,16 +16,8 @@ Ce projet est une application web conçue pour la gestion des patients
 
 ## Backend
 
-Le backend du projet de banque numérique est développé en utilisant le framework Spring Boot. Il fournit les API nécessaires pour gérer les clients, les comptes et les opérations.
+Le backend du projet de banque numérique est développé en utilisant le framework Spring Boot. Il fournit les API nécessaires pour gérer les patients.
 
-
-### API Endpoints
-
-- `/customers`: Handles CRUD operations for customers.
-- `/customers/{id}`: Retrieves a specific customer by ID.
-- `/accounts`: Handles CRUD operations for accounts.
-- `/accounts/{id}`: Retrieves a specific account by ID.
-- `/accounts/{id}/operations`: Retrieves operations associated with a specific account.
 
 ## Frontend
 
